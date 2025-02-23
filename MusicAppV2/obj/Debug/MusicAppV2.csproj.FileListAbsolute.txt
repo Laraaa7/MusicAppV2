@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\MusicAppV2\MusicAppV2\bin\Debug\MusicAppV2.exe.config
+C:\Users\Usuario\source\repos\MusicAppV2\MusicAppV2\bin\Debug\MusicAppV2.exe
+C:\Users\Usuario\source\repos\MusicAppV2\MusicAppV2\bin\Debug\MusicAppV2.pdb
+C:\Users\Usuario\source\repos\MusicAppV2\MusicAppV2\bin\Debug\MusicAppDLLV2.pdb
+C:\Users\Usuario\source\repos\MusicAppV2\MusicAppV2\obj\Debug\MusicAppV2.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\MusicAppV2\MusicAppV2\obj\Debug\MusicAppV2.Form1.resources
+C:\Users\Usuario\source\repos\MusicAppV2\MusicAppV2\obj\Debug\MusicAppV2.Properties.Resources.resources
+C:\Users\Usuario\source\repos\MusicAppV2\MusicAppV2\obj\Debug\MusicAppV2.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\MusicAppV2\MusicAppV2\obj\Debug\MusicAppV2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\MusicAppV2\MusicAppV2\obj\Debug\MusicAppV2.csproj.Up2Date
+C:\Users\Usuario\source\repos\MusicAppV2\MusicAppV2\obj\Debug\MusicAppV2.exe
+C:\Users\Usuario\source\repos\MusicAppV2\MusicAppV2\obj\Debug\MusicAppV2.pdb
